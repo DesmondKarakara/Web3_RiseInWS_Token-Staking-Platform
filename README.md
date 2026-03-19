@@ -25,14 +25,18 @@ This smart contract lets users:
 Token Staking Platform: `Y
 🔗 https://stellar.expert/explorer/testnet/tx/b4ddd09622bada6585002a63406afa4f9ea4ab0cb24c480bb0703e8f88eda85e`
 
+
+
+<img width="1914" height="920" alt="image" src="https://github.com/user-attachments/assets/06cbe0e9-9563-4da8-99b2-875b23e03d6d" />
+
+
 ## Tech Stack
 
 - Rust
 - Soroban SDK
 - Stellar Blockchain
 
-<img width="1914" height="920" alt="image" src="https://github.com/user-attachments/assets/06cbe0e9-9563-4da8-99b2-875b23e03d6d" />
-
+  
 ## Notes
 
 This is a basic example and can be expanded with:
