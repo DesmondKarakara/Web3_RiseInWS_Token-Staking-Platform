@@ -31,6 +31,8 @@ Token Staking Platform: `Y
 - Soroban SDK
 - Stellar Blockchain
 
+<img width="1914" height="920" alt="image" src="https://github.com/user-attachments/assets/06cbe0e9-9563-4da8-99b2-875b23e03d6d" />
+
 ## Notes
 
 This is a basic example and can be expanded with:
